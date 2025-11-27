@@ -1,0 +1,47 @@
+# Build artifacts
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+[Aa][Rr][Mm]*/
+[Bb][Ii][Nn]*/
+[Oo][Bb][Jj]*/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE directories
+.vscode/
+.idea/
+
+# Rider / ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Logs
+*.log
+
+# Visual Studio cache
+.vs/
+
+# Publish output
+publish/
+wwwroot/dist/
+
+# Environment variables
+*.env
+*.secret.json
+
+# OS files
+.DS_Store
+Thumbs.db
